@@ -1,1 +1,1 @@
-# jogo-do-piano
+O simulador de piano é uma aplicação web desenvolvida com HTML, CSS e JavaScript que permite aos usuários tocar e experimentar diferentes notas musicais em um teclado virtual. Com uma interface intuitiva e responsiva, os usuários podem reproduzir melodias, aprender acordes e explorar a música de forma interativa diretamente em seus navegadores.
